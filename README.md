@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a CS grad (B.Tech IoT, graduating May 2026) who builds things end-to-end — from pixel-accurate React UIs to microservice backends, ETL pipelines, and CI/CD infrastructure. I've interned across data engineering, mobile, and Python development, and I ship personal projects that go beyond tutorials.
+I'm a CS grad (B.Tech IoT, graduated May 2026) who builds things end-to-end — from pixel-accurate React UIs to microservice backends, ETL pipelines, and CI/CD infrastructure. I've interned across data engineering, mobile, and Python development, and I ship personal projects that go beyond tutorials.
 
 - 🏗️ Currently building **Studyonic** — a cloud-native ed-tech platform with Kafka, Redis, and microservices on AWS
 - 🐳 Also built **Gocker** — a custom Linux container runtime in Go, with a full CI/CD pipeline
@@ -66,7 +66,7 @@ Migrated a monolithic Node app into **6 independent microservices** with Kafka a
 ---
 
 ### 🔬 [AI-Driven Network Diagnostics Platform](https://github.com/shaikmuskan27)
-> Python · REST APIs · SQL · Pytest · Docker
+> AI . Python · REST APIs · SQL · Pytest · Docker
 
 Built REST API integrations with automated end-to-end test suites — **zero production escapes post-deployment**. Modelled SQL test data that cut manual verification time by **50%**.
 
