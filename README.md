@@ -98,7 +98,7 @@ Built a container runtime from scratch in Go. Engineered a multi-stage CI/CD pip
 <div align="center">
 
 <!-- GITHUB STATS CARD -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaikmuskan27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaikmuskan27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
 <!-- TOP LANGUAGES CARD -->
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikmuskan27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
