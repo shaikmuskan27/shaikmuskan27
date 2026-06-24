@@ -13,8 +13,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a CS grad (B.Tech IoT, graduated May 2026) who builds things end-to-end — from pixel-accurate React UIs to microservice backends, ETL pipelines, and CI/CD infrastructure. I've interned across data engineering, mobile, and Python development, and I ship personal projects that go beyond tutorials.
+I'm a CS grad (B.Tech IoT, graduated May 2026) and an **AI Enthusiast** who builds things end-to-end — from intelligent **AI tools** and pixel-accurate React UIs to microservice backends, ETL pipelines, and CI/CD infrastructure. I've interned across data engineering, mobile, and Python development, and I ship personal projects that go beyond tutorials.
 
+- 🤖 **AI Enthusiast** passionate about developing state-of-the-art **AI projects** and leveraging modern AI tools
 - 🏗️ Currently building **Studyonic** — a cloud-native ed-tech platform with Kafka, Redis, and microservices on AWS
 - 🐳 Also built **Gocker** — a custom Linux container runtime in Go, with a full CI/CD pipeline
 - 📊 99th national percentile (740/800) on CoCubes | 97.9% LeetCode acceptance rate
@@ -52,6 +53,15 @@ I'm a CS grad (B.Tech IoT, graduated May 2026) who builds things end-to-end — 
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
+**AI Tools & Skills**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
 ---
 
 ## 🚀 Featured Projects
@@ -66,11 +76,11 @@ Migrated a monolithic Node app into **6 independent microservices** with Kafka a
 ---
 
 ### 🔬 [AI-Driven Network Diagnostics Platform](https://github.com/shaikmuskan27)
-> AI . Python · REST APIs · SQL · Pytest · Docker
+> AI · Machine Learning · Python · REST APIs · SQL · Docker
 
-Built REST API integrations with automated end-to-end test suites — **zero production escapes post-deployment**. Modelled SQL test data that cut manual verification time by **50%**.
+Built an **AI-focused tool** leveraging machine learning models for network diagnostics, integrated via REST APIs with automated end-to-end test suites — **zero production escapes post-deployment**. Modelled SQL test data that cut manual verification time by **50%**.
 
-`python` `rest-api` `pytest` `sql` `docker` `automation`
+`python` `ai` `machine-learning` `rest-api` `sql` `docker`
 
 ---
 
@@ -121,20 +131,6 @@ Built a container runtime from scratch in Go. Engineered a multi-stage CI/CD pip
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<!-- CONTRIBUTION GRAPH (snake animation — see setup instructions below) -->
-<!-- After setting up the snake workflow, uncomment this line: -->
-<!-- ![snake gif](https://github.com/shaikmuskan27/shaikmuskan27/blob/output/github-contribution-grid-snake.gif) -->
-
-<!-- ACTIVITY GRAPH (works immediately, no setup needed) -->
-[![Muskan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaikmuskan27&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
