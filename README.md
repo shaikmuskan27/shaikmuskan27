@@ -131,18 +131,6 @@ Built a container runtime from scratch in Go. Engineered a multi-stage CI/CD pip
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<!-- FAKE POSITIVE GRASS GRAPH -->
-<img src="https://ghchart.rshah.org/21918a/sindresorhus" alt="Muskan's GitHub Activity Graph" width="800" />
-<br />
-<i>Showing a "very positive grass" graph for display purposes! 🌱</i>
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
